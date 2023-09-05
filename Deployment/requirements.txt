@@ -1,8 +1,0 @@
-numpy
-streamlit
-scikit-learn
-PTL
-tensorflow
-joblib
-gunicorn
-
